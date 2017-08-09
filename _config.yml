@@ -11,7 +11,9 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-
+sass:
+    sass_dir: _sass
+    style: compressed
 ### content configuration ###
 title:       "Masatoshi Katabuchi - Community and funcitonal ecology"
 keywords:    "functional trait, functional diversity, community ecology, katabuchi, Masatoshi, 片渕, 正紀"
